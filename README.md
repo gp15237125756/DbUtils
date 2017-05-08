@@ -1,4 +1,4 @@
-## simple test for apache's DbUtils project
+## simple usage for apache's DbUtils project
 
 ## Notion
 
